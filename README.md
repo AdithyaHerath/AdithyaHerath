@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithya Herath</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Game Development**
 
