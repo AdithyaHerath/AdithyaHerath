@@ -1,31 +1,67 @@
 <h1 align="center">Hi 👋, I'm Adithya Herath</h1>
-<h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
+<h3 align="center">Computer Science undergraduate at NSBM · Full-stack, IoT & Game Developer from Sri Lanka 🇱🇰</h3>
 
-- 🌱 I’m currently learning **Game Development**
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 💬 Ask me about **python**
+- 🎓 Computer Science undergraduate at **NSBM Green University**
+- 🔭 Working on an **IoT Smart Parking System** (ESP32 + ANPR + cloud dashboard)
+- 🌱 Currently learning **Game Development** with Unity & Blender
+- 💬 Ask me about **Python, JavaScript, React and IoT**
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<br clear="right"/>
 
+## 🛠️ Languages & Tools
 
-<h3 align="left">Connect with me:</h3>
+**Languages**
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cs,py,js,ts,php,dart&perline=12" alt="Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+**Web & Backend**
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,fastapi,mongodb,mysql&perline=12" alt="Web and backend" />
+</p>
 
+**AI / ML, Mobile, IoT & Game Dev**
 
-| ![Adithya's github stats](https://github-readme-stats.vercel.app/api?username=AdithyaHerath&show_icons=true&theme=tokyonight) | ![Adithya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdithyaHerath&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaHerath&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AdithyaHerath&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,flutter,arduino,unity,blender&perline=12" alt="AI, mobile, IoT and game dev" />
+</p>
 
+**Tools**
 
-| Languages | Activity |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaHerath&layout=compact&theme=tokyonight) | ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AdithyaHerath&theme=tokyo-night) |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=12" alt="Tools" />
+</p>
 
+## 🚀 Featured Projects
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/AdithyaHerath"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AdithyaHerath" /></a></p><br><br>
+| Project | Description | Tech |
+| --- | --- | --- |
+| [Smart Parking System](https://github.com/AdithyaHerath/smart-parking-system) | IoT parking management with ANPR, ESP32 devices, real-time slot availability and digital payments | TypeScript · ESP32 · IoT |
+| [Math Battle Arena](https://github.com/AdithyaHerath/math-battle-arena) | Math battle game | Dart · Flutter |
+| [Web Forum](https://github.com/AdithyaHerath/web-forum) | Discussion forum web app | PHP |
+| [Project Fullstack](https://github.com/AdithyaHerath/project-fullstack) | Full-stack web application | JavaScript |
+| [Christmas Glitch](https://github.com/AdithyaHerath/christmas-glitch) | Interactive holiday page with glitch animation and falling snow | HTML · CSS · JS |
+| [GPA Calculator](https://github.com/AdithyaHerath/GPA-Calculator) | Simple GPA calculator | HTML |
+
+## 📊 GitHub Stats & Commits
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdithyaHerath&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats with total commits" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=AdithyaHerath&theme=tokyonight" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaHerath&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaHerath&theme=tokyo-night&hide_border=true" alt="Commit activity graph" />
+</p>
+
+## ☕ Support
+
+<a href="https://www.buymeacoffee.com/AdithyaHerath"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a>
