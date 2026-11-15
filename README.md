@@ -70,20 +70,6 @@ My koi started as a tiny pale hatchling. Every commit, PR and issue helps it gro
 | [Christmas Glitch](https://github.com/AdithyaHerath/christmas-glitch) | Interactive holiday page with glitch animation and falling snow | HTML · CSS · JS |
 | [GPA Calculator](https://github.com/AdithyaHerath/GPA-Calculator) | Simple GPA calculator | HTML |
 
-## 📊 GitHub Stats & Commits
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdithyaHerath&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats with total commits" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=AdithyaHerath&theme=tokyonight" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaHerath&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaHerath&theme=tokyo-night&hide_border=true" alt="Commit activity graph" />
-</p>
 
 ## ☕ Support
 
