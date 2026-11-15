@@ -1,0 +1,35 @@
+name: Feed the koi
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # twice a day
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "koi-pond/render.js"
+      - "koi-pond/generate.js"
+      - ".github/workflows/koi-pond.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Render pond
+        run: node koi-pond/generate.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+      - name: Commit pond
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add koi-pond/pond.svg
+          git diff --cached --quiet || (git commit -m "🎏 Feed the koi" && git push)

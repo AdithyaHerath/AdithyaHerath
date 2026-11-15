@@ -1,6 +1,29 @@
 <h1 align="center">Hi 👋, I'm Adithya Herath</h1>
 <h3 align="center">Computer Science undergraduate at NSBM · Full-stack, IoT & Game Developer from Sri Lanka 🇱🇰</h3>
 
+<p align="center">
+  <img src="koi-pond/pond.svg" width="100%" alt="My koi pond — the koi grows and the pond changes with every GitHub contribution" />
+</p>
+
+<details>
+<summary>🎏 <b>What is this pond?</b> Every contribution feeds my koi — click to see the milestones</summary>
+<br/>
+
+My koi started as a tiny pale hatchling. Every commit, PR and issue helps it grow, and each milestone brings something new to the pond. It updates automatically twice a day.
+
+| Contributions | Stage | What happens in the pond |
+| --- | --- | --- |
+| 0 | 🥚 HATCHLING | A tiny pale koi hatches in a quiet pond |
+| 25 | 🐟 FRY | First orange scale · lily pads drift in |
+| 100 | 🎏 YOUNG | Red Kohaku markings · reeds grow at the edges |
+| 250 | 🐠 JUVENILE | Black sumi spots · a friend joins · pebbles settle |
+| 500 | 🪷 ADULT | Blue back scales · lotus flowers bloom · a third koi |
+| 1,000 | 🌕 ELDER | Metallic shimmer · the moon rises · fireflies |
+| 2,000 | 🌸 LEGEND | Golden fins · sakura petals fall · a school of four |
+| 5,000 | 🐉 DRAGON | The koi climbed the waterfall and became a dragon |
+
+</details>
+
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🎓 Computer Science undergraduate at **NSBM Green University**
