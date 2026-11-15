@@ -43,7 +43,7 @@
 | [Smart Parking System](https://github.com/AdithyaHerath/smart-parking-system) | IoT parking management with ANPR, ESP32 devices, real-time slot availability and digital payments | TypeScript · ESP32 · IoT |
 | [Math Battle Arena](https://github.com/AdithyaHerath/math-battle-arena) | Math battle game | Dart · Flutter |
 | [Web Forum](https://github.com/AdithyaHerath/web-forum) | Discussion forum web app | PHP |
-| [Project Fullstack](https://github.com/AdithyaHerath/project-fullstack) | Full-stack web application | JavaScript |
+| [Project Fullstack](https://github.com/AdithyaHerath/project-fullstack) | Full-stack web application | TypeScript · JavaScript |
 | [Christmas Glitch](https://github.com/AdithyaHerath/christmas-glitch) | Interactive holiday page with glitch animation and falling snow | HTML · CSS · JS |
 | [GPA Calculator](https://github.com/AdithyaHerath/GPA-Calculator) | Simple GPA calculator | HTML |
 
