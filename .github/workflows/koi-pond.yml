@@ -3,13 +3,7 @@ name: Feed the koi
 on:
   schedule:
     - cron: "0 */12 * * *"   # twice a day
-  workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - "koi-pond/render.js"
-      - "koi-pond/generate.js"
-      - ".github/workflows/koi-pond.yml"
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
 
 permissions:
   contents: write
@@ -19,14 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+
+      - uses: AdithyaHerath/koi-Pond@v1
         with:
-          node-version: 20
-      - name: Render pond
-        run: node koi-pond/generate.js
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USER: ${{ github.repository_owner }}
+          output_path: koi-pond/pond.svg
+
       - name: Commit pond
         run: |
           git config user.name "github-actions[bot]"

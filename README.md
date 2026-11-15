@@ -3,13 +3,14 @@
 
 <p align="center">
   <img src="koi-pond/pond.svg" width="100%" alt="My koi pond — the koi grows and the pond changes with every GitHub contribution" />
+  <br/><sub>🎏 Want your own koi pond? <a href="https://github.com/AdithyaHerath/koi-Pond">Get it here</a> · <a href="https://adithyaherath.github.io/koi-Pond/">Try the demo</a></sub>
 </p>
 
 <details>
 <summary>🎏 <b>What is this pond?</b> Every contribution feeds my koi — click to see the milestones</summary>
 <br/>
 
-My koi started as a tiny pale hatchling. Every commit, PR and issue helps it grow, and each milestone brings something new to the pond. It updates automatically twice a day.
+My koi started as a tiny pale hatchling. Every commit, PR and issue helps it grow, and each milestone brings something new to the pond. It updates automatically twice a day using <a href="https://github.com/marketplace/actions/koi-pond-profile">Koi Pond Profile</a> from the GitHub Marketplace.
 
 | Contributions | Stage | What happens in the pond |
 | --- | --- | --- |
